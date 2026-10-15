@@ -1,0 +1,4 @@
+interface:
+  display_name: "Público-alvo e cliente ideal"
+  short_description: "Escolha segmentos com critérios e evidências"
+  default_prompt: "Use $marketing-publico-alvo para comparar os segmentos adequados à minha oferta e definir o que precisamos validar."

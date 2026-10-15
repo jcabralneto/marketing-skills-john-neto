@@ -1,0 +1,4 @@
+interface:
+  display_name: "Personas baseadas em evidências"
+  short_description: "Entenda necessidades, objeções e decisões"
+  default_prompt: "Use $marketing-personas para criar uma persona útil à campanha, separando evidências de hipóteses."

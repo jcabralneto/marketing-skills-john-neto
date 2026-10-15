@@ -1,0 +1,4 @@
+interface:
+  display_name: "Personalização e jornadas"
+  short_description: "Defina a próxima ação por sinal e contexto"
+  default_prompt: "Use $marketing-personalizacao para criar uma matriz de próximas ações com gatilhos, limites e métricas."

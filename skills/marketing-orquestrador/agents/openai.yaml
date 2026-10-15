@@ -1,0 +1,4 @@
+interface:
+  display_name: "Planejamento de marketing"
+  short_description: "Conecte estratégia, execução e medição"
+  default_prompt: "Use $marketing-orquestrador para organizar um plano de marketing com base no meu contexto e nas evidências disponíveis."

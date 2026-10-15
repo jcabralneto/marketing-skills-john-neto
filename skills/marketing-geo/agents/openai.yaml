@@ -1,0 +1,4 @@
+interface:
+  display_name: "GEO e presença em respostas de IA"
+  short_description: "Avalie menções e citações com evidências"
+  default_prompt: "Use $marketing-geo para avaliar a presença da minha marca em respostas de IA e propor melhorias testáveis."

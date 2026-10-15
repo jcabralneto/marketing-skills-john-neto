@@ -1,0 +1,4 @@
+interface:
+  display_name: "MarTech e integração"
+  short_description: "Conecte sistemas e avalie custo e retorno"
+  default_prompt: "Use $marketing-martech para mapear minhas ferramentas e desenhar um fluxo com governança e medição."

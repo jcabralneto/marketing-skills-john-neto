@@ -1,0 +1,4 @@
+interface:
+  display_name: "Testes e mensuração"
+  short_description: "Desenhe testes e interprete a incerteza"
+  default_prompt: "Use $marketing-experimentos para planejar um teste de marketing ou analisar resultados sem antecipar uma conclusão."

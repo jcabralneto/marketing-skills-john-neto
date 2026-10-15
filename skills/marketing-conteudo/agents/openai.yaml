@@ -1,0 +1,4 @@
+interface:
+  display_name: "Voz de marca e conteúdo"
+  short_description: "Transforme fatos e estratégia em conteúdo"
+  default_prompt: "Use $marketing-conteudo para criar conteúdo a partir do público, da voz e dos fatos da minha marca."

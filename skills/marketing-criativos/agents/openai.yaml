@@ -1,0 +1,4 @@
+interface:
+  display_name: "Criativos e produção"
+  short_description: "Planeje imagens, vídeos e áudio com fontes"
+  default_prompt: "Use $marketing-criativos para planejar uma peça com roteiro, ativos e critérios claros de revisão."

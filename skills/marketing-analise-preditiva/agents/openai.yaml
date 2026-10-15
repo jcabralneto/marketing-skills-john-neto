@@ -1,0 +1,4 @@
+interface:
+  display_name: "Análise preditiva e leads"
+  short_description: "Converta históricos em priorização explicável"
+  default_prompt: "Use $marketing-analise-preditiva para avaliar meus dados e desenhar uma priorização de leads com limites explícitos."

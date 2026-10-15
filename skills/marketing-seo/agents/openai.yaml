@@ -1,0 +1,4 @@
+interface:
+  display_name: "SEO e arquitetura de conteúdo"
+  short_description: "Conecte busca, intenção e páginas úteis"
+  default_prompt: "Use $marketing-seo para organizar consultas em clusters e priorizar páginas para a minha oferta."
